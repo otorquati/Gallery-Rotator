@@ -1,2 +1,2 @@
 # Gallery-Rotator
- Gaelria Rotativa de Imagens
+ Galeria Rotativa de Imagens
